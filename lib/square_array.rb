@@ -5,4 +5,5 @@ def square_array(array)
        array2.push(array[i] * array[i])
       i += 1
     end 
+      return array2
 end
